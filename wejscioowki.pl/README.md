@@ -1,8 +1,9 @@
 # Wejscioowki
 
-## Released 06/2025
+### Released 06/2025
 
 [www.wejscioowki.pl](https://www.wejscioowki.pl)
+
 A modern Angular application for managing customer entries, subscriptions, and business operations (e.g., playrooms, clubs, gyms). It demonstrates robust Angular architecture, modularity, state management, and custom UI/UX.
 
 ---
