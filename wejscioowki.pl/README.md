@@ -2,12 +2,12 @@
 
 ## Released 06/2025
 
-https://www.wejscioowki.pl
+[www.wejscioowki.pl](https://www.wejscioowki.pl)
 A modern Angular application for managing customer entries, subscriptions, and business operations (e.g., playrooms, clubs, gyms). It demonstrates robust Angular architecture, modularity, state management, and custom UI/UX.
 
 ---
 
-## Table of Contents
+## 📄 Table of Contents
 
 - [Features](#features)
 - [Architecture](#architecture)
@@ -22,7 +22,7 @@ A modern Angular application for managing customer entries, subscriptions, and b
 
 ---
 
-## Features
+## ✨ Features
 
 - **Authentication**: Registration, login, password recovery, email confirmation.
 - **Silent Auth**: Seamless relogin using JWT Tokens and my own backend.
@@ -40,7 +40,7 @@ A modern Angular application for managing customer entries, subscriptions, and b
 
 ---
 
-## Architecture
+## 🛠️ Architecture
 
 - **Modular Structure**: Each feature in its own directory (e.g., `auth/`, `dashboard/`, `shared/`).
 - **Smart/Dumb Components**: Separation of logic and presentation.
@@ -58,7 +58,7 @@ A modern Angular application for managing customer entries, subscriptions, and b
 
 ---
 
-## Full Stack Application
+## 💻🛠️🗄️ Full Stack Application
 
 - **Firebase Authentication**: Firebase Authentication together with my NodeJS backend handles users.
 - **Realtime Database**: Users Data is stored in Firebase Realtime Database.
@@ -67,7 +67,7 @@ A modern Angular application for managing customer entries, subscriptions, and b
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 src/app/
@@ -101,7 +101,7 @@ styles.scss
 
 ---
 
-## State Management
+## 🔄 State Management
 
 - **Store Pattern**: Centralized state in `/store/` using NgRx Actions and Reducers,
 - **Modular structure**: State divided in 3 main reducers: auth.reducer.ts, entrance-list.reducer.ts and user-data.reducer.ts,
@@ -110,7 +110,7 @@ styles.scss
 
 ---
 
-## UI/UX & Styling
+## 🖥️🖱️ UI/UX & Styling
 
 - **Custom SCSS**: [BEM](http://getbem.com/) methodology, responsive mixins, and utility classes.
 - **Typography**: Custom fonts (`Roboto`, `Afacad Flux`), scalable units, and accessible color palette.
@@ -120,7 +120,7 @@ styles.scss
 
 ---
 
-## How to Run
+## 📝 How to Run
 
 1. **Install dependencies**
 
@@ -135,7 +135,7 @@ styles.scss
 
 ---
 
-## Build & Deployment
+## 📦 Build & Deployment
 
 - **Production build**
   ```bash
@@ -145,7 +145,7 @@ styles.scss
 
 ---
 
-## Best Practices
+## 🏆🛠️ Best Practices
 
 - **Strict TypeScript**: All code is strictly typed.
 - **Linting & Formatting**: ESLint and Prettier.
@@ -156,7 +156,7 @@ styles.scss
 
 ---
 
-## Further Improvements
+## 🚀✨ Further Improvements
 
 - Migrate to the newest version of Angular,
 - Migrate to signals and Zoneless Change Detection,
