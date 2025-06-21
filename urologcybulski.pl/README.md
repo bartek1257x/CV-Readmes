@@ -2,7 +2,7 @@
 
 ### Release 03/2025
 
-https://urologcybulski.pl
+[www.urologcybulski.pl](https://www.urologcybulski.pl)
 A modern, production-ready Angular application for a urology clinic. Features robust Angular patterns, RxJS, Angular Material, responsive SCSS, accessibility, internationalization (PL/EN), PWA support. Designed for performance, maintainability, and best UX practices.
 
 ---
